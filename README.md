@@ -32,3 +32,5 @@ docker logs <container_id>
 Accédez à http://localhost:3000 et envoyez un message.
 
 ---
+
+<img width="1047" alt="Screenshot 2025-06-20 at 19 55 04" src="https://github.com/user-attachments/assets/a08b1c9e-c0e1-4e6f-83a7-dd2005b438f6" />
